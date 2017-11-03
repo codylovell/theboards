@@ -1,0 +1,25 @@
+body {
+    background-image: url(../img/dark.png);
+}
+
+h1{
+    color: green;
+}
+
+.logo {
+    font-family: 'Peralta', cursive;
+    color: green;
+}
+
+.logo a {
+    color: rgba(80, 54, 45, .9);
+}
+
+.logo a:hover,
+.logo a:active {
+    text-decoration: none;
+}
+
+.h1 {
+    color: #ff0000;
+}
